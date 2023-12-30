@@ -2,4 +2,4 @@
 
 But I'm not a wrapper.
 
-![Wearable](assets/wearable.jpg)
+![Wearable](assets/wearable.jpg =1080x720)
