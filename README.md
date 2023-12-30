@@ -2,4 +2,5 @@
 
 But I'm not a wrapper.
 
-![Wearable](assets/wearable.jpg =1080x720)
+![Wearable](assets/wearable.jpg)
+![In Action](assets/vid.mov)
