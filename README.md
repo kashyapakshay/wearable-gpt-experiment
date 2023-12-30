@@ -6,6 +6,8 @@
 
 Streams frames from the Pi to a remote server using sockets + [Picamera2 library](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf).
 
+[![In Action](https://img.youtube.com/vi/LBLcYCiD6mQ/0.jpg)](https://youtu.be/LBLcYCiD6mQ)
+
 -----
 
 By [Ash](https://github.com/ashwinlokkur) and yours truly.
