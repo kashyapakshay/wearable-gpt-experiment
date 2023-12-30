@@ -1,4 +1,5 @@
 # Much of the code from: https://picamera.readthedocs.io/en/release-1.13/recipes2.html
+# Run this on your RaspberryPi.
 
 import time
 import io
