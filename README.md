@@ -10,7 +10,7 @@ Streams frames from the Pi to a remote server using sockets + [Picamera2 library
 
 (Mounted on a pair of headphones here)
 
-This code is nowhere near production-grade and was only written for fun. Hope it gets someone out there a headstart.
+This code was only written for fun. Hope it gets someone out there a headstart.
 
 -----
 
